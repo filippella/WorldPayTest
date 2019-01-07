@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorldPayTest</string>
+    <string name="button_authorize_payment">Authorize Payment</string>
+    <string name="button_cancel_payment">Cancel Payment</string>
+</resources>
